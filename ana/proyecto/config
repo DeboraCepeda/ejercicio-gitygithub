@@ -4,5 +4,3 @@
 	bare = true
 	symlinks = false
 	ignorecase = true
-[user]
-	name = Ana
